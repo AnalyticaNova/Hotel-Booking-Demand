@@ -1,0 +1,78 @@
+notebooks/.ipynb_checkpoints/
+*.ipynb_checkpoints
+.ipynb_checkpoints
+.ipynb_checkpoints/
+
+.DS_Store
+data/.DS_Store
+notebooks/.DS_Store
+
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache and virtual environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Ignore Jupyter Notebook checkpoints
+notebooks/.ipynb_checkpoints/
+*.ipynb_checkpoints
+.ipynb_checkpoints
+
+# Ignore dataset files (optional: if data shouldn't be pushed)
+data/*.zip
+data/*.csv
+
+# Ignore logs and temp files
+logs/
+*.log
+*.tmp
+
+# Ignore credentials
+config.py
+
+# Ignore Extract Files 
+.hyper
+.tds
+
+# Ignore large data files
+*.csv
+*.tsv
+*.parquet
+*.json
+*.xml
+*.h5
+*.pkl
+*.joblib
+*.db
+*.sqlite
+*.feather
+
+# Ignore model weights and large binary files
+*.hdf5
+*.ckpt
+*.pt
+*.onnx
+*.tflite
+*.pb
+*.pkl
+*.zip
+*.tar.gz
+
+# Ignore Jupyter notebook metadata if unwanted
+**/.ipynb_checkpoints/*
+**/.jupyter/*
+**/.local/*
+**/.cache/*
+
+# Ignore VSCode and PyCharm settings
+.vscode/
+.idea/
+
+.DS_Store
