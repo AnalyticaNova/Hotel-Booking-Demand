@@ -136,7 +136,6 @@ Customer Preferences & Special Requests: Analysis of customer preferences reveal
 
 By integrating these insights into day-to-day operations, hotels can improve profitability, customer retention, and operational efficiency
 
-
 ### 📩 Connect With Me
 If you're interested in discussing this project or opportunities, feel free to connect! 🚀
 
