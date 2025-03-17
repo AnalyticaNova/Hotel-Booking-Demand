@@ -1,6 +1,7 @@
-# Hotel Booking Demand: Analysis & Forecasting using SQL and Python
+# Hotel Booking Demand: Analysis, Forecasting and Visualization Using SQL and Python
 
 📌 Understanding hotel booking demand and price fluctuations is essential for optimizing revenue and enhancing customer satisfaction. This project provides a comprehensive analysis of hotel booking trends and pricing strategies using a combination of data processing, exploratory analysis, predictive modeling, and SQL-based insights. By identifying key factors that influence demand, cancellations, and pricing, we offer actionable recommendations to maximize profitability and improve decision-making.
+
 
 🔍 This project is structured into two key sections: **Time Series Analysis & Forecasting** and **SQL-Based Analysis**, covering various aspects of hotel booking demand and price forecasting.
 

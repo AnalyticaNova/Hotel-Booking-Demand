@@ -3,14 +3,12 @@ notebooks/.ipynb_checkpoints/
 .ipynb_checkpoints
 .ipynb_checkpoints/
 
-.DS_Store
-data/.DS_Store
-notebooks/.DS_Store
-
 
 # Ignore system files
 .DS_Store
 Thumbs.db
+data/.DS_Store
+notebooks/.DS_Store
 
 # Ignore Python cache and virtual environment files
 __pycache__/
@@ -25,10 +23,6 @@ notebooks/.ipynb_checkpoints/
 *.ipynb_checkpoints
 .ipynb_checkpoints
 
-# Ignore dataset files (optional: if data shouldn't be pushed)
-data/*.zip
-data/*.csv
-
 # Ignore logs and temp files
 logs/
 *.log
@@ -42,7 +36,6 @@ config.py
 .tds
 
 # Ignore large data files
-*.csv
 *.tsv
 *.parquet
 *.json
@@ -62,7 +55,6 @@ config.py
 *.tflite
 *.pb
 *.pkl
-*.zip
 *.tar.gz
 
 # Ignore Jupyter notebook metadata if unwanted
@@ -76,3 +68,5 @@ config.py
 .idea/
 
 .DS_Store
+data/.DS_Store
+notebooks/.DS_Store
